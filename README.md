@@ -38,13 +38,7 @@ The Project is divided in the following Sections:
 * SQLlite Database Libraqries: SQLalchemy
 * Web App and Data Visualization: Flask, Plotly
 
-<a name="installing"></a>
-### Installing
-Clone this GIT repository:
-```
-git clone https://github.com/matteobonanomi/disaster-response.git
-```
-<a name="executing"></a>
+
 ### Executing Program:
 1. Run the following commands in the project's root directory to set up your database and model.
 
@@ -72,7 +66,7 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 <a name="authors"></a>
 ## Authors
 
-* [Matteo Bonanomi](https://github.com/matteobonanomi)
+* [Ashwani Singh](https://github.com/Ashwanisingh0109)
 
 <a name="license"></a>
 ## License
